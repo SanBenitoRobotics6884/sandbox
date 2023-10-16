@@ -1,5 +1,9 @@
-Write SOMETHgni:
+<<<<<<< HEAD
+you are the best person lol git 
+=======
+Write SOMETHNGI:
 save: wait to push
 push
 then pull
 yess, this is crazy!!!!!!!
+>>>>>>> 90d0c640fa9f1d9f9b7f13aaf17ce84e94d4c6ec
