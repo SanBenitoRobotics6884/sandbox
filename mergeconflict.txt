@@ -1,4 +1,4 @@
-Write SOMETHING:
+Write SOMETHNGI:
 save: wait to push
 push
 then pull
