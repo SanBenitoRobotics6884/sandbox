@@ -1,0 +1,5 @@
+Write SOMETHING:
+save: wait to push
+push
+then pull
+yess, this is crazy!!!!!!!
